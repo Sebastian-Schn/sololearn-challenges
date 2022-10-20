@@ -32,6 +32,3 @@ if re.match(pattern_1, link):
 elif re.match(pattern_2, link):
     print(re.sub(pattern_2, "", link))
 ```
-
-    aaaa
-    

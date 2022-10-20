@@ -29,7 +29,3 @@ for word in word_list:
     pig_phrase += word[1:] + word[0] + 'ay '
 print(pig_phrase)
 ```
-
-    nevermind youve got them
-    evermindnay ouveyay otgay hemtay 
-    

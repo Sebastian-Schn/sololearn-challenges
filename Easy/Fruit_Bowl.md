@@ -26,7 +26,3 @@ apples      = int(even_number/2)
 pie_number  = apples // 3
 print(pie_number)
 ```
-
-    26
-    4
-    

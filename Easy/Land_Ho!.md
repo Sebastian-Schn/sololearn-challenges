@@ -26,6 +26,3 @@ trip   = people // 20
 time   = 20 * trip + 10
 print(time)
 ```
-
-    10
-    

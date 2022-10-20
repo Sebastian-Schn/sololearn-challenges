@@ -39,6 +39,3 @@ tupled_word              = tuple(word) # word in "tuple format"
 word_index               = sorted_word_permutations.index(tupled_word)
 print(word_index + 1) # +1 because 0-indexing in python
 ```
-
-    0
-    

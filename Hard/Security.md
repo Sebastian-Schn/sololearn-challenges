@@ -33,7 +33,3 @@ if re.search(pattern_1, security_diagram) or re.search(pattern_2, security_diagr
 else:
     print('quiet')
 ```
-
-    xxxxxDTD$TD
-    ALARM
-    

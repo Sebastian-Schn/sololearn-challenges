@@ -35,7 +35,3 @@ elif total > 0:
 else:
     print('Broke Even')
 ```
-
-    7
-    Broke Even
-    

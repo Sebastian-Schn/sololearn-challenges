@@ -32,6 +32,3 @@ for word in words:
 else:
     print('Trash')
 ```
-
-    Open
-    

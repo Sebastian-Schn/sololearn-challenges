@@ -14,7 +14,8 @@ A string that say 'Open' if at least one of the boxes is a palindrome or 'Trash'
 ```CAT
 MONDAYS
 RACECAR
-TACOS```
+TACOS
+```
 
 ## Sample Output 
 ```Open```

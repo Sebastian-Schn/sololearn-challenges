@@ -11,9 +11,11 @@ Your input will be a string of your name, then an integer of the number of avail
 You will output an integer of the number of minutes that it will take to get your license.
 
 ## Sample Input
-```'Eric'
+```
+'Eric'
 2
-'Adam Caroline Rebecca Frank'```
+'Adam Caroline Rebecca Frank'
+```
 
 ## Sample Output 
 ```40```

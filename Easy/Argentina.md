@@ -11,8 +11,10 @@ Two integer values, the first one is the price in Pesos and the second one is th
 A string that says which currency you should make the purchase in ('Dollars' or 'Pesos').
 
 ## Sample Input 
-```4000
-100```
+```
+4000
+100
+```
 
 ## Sample Output 
 ```Pesos```

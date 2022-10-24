@@ -12,8 +12,10 @@ An expression can include multiple operations.
 A string that tells the index of the first math expression that matches. If there are no matches, output 'none'.
 
 ## Sample Input: 
-```15
-(2+100) (5*3) (14+1)```
+```
+15
+(2+100) (5*3) (14+1)
+```
 
 ## Sample Output: 
 ```index 1```

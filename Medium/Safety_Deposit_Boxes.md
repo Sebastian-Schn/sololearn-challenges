@@ -11,8 +11,10 @@ A string that represent the items in each box that will be drilled in order (ite
 An integer of the amount of time it will take for you to find your item.
 
 ## Sample Input
-```'gold,diamonds,documents,Declaration of Independence,keys'
-'Declaration of Independence'```
+```
+'gold,diamonds,documents,Declaration of Independence,keys'
+'Declaration of Independence'
+```
 
 ## Sample Output 
 ```20```

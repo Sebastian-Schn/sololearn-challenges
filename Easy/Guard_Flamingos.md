@@ -11,8 +11,10 @@ Two integer values that represent the length and width of your front yard.
 An integer that represents the total number of flamingos that you should purchase.
 
 ## Sample Input: 
-```10
-10```
+```
+10
+10
+```
 
 ## Sample Output: 
 ```20```

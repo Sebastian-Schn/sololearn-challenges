@@ -24,10 +24,12 @@ Given a color in CMYK format, output the corresponding RGB color.
 A string, representing the corresponding RGB color, each component separated by commas.
 
 ## Sample Input:
-```0.4
+```
+0.4
 0.49
 0.552
-0.36```
+0.36
+```
 
 ## Sample Output: 
 ```98,83,73```

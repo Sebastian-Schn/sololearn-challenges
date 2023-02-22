@@ -14,8 +14,10 @@ Two inputs: a string and an integer.
 A string, representing the hyphen-separated parts.
 
 ## Sample Input: 
-```hello
-2```
+```
+hello
+2
+```
 
 ## Sample Output: 
 ```he-ll-o```

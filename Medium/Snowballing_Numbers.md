@@ -13,11 +13,13 @@ The first input denotes the length of the list (N). The next N lines contain the
 A string, true or false.
 
 ## Sample Input: 
-```4
+```
+4
 1
 3
 7
-58```
+58
+```
 
 ## Sample Output: 
 ```True```

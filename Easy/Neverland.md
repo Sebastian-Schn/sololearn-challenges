@@ -12,8 +12,10 @@ Two integer values. The first represents your age when you arrived at Neverland,
 A string that states 'My twin is X years old and they are Y years older than me' Where X is their age and Y is the difference. 
 
 ## Sample Input: 
-```10 
-8```
+```
+10 
+8
+```
 
 ## Sample Output: 
 ```My twin is 18 years old and they are 8 years older than me```
